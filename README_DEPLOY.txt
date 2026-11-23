@@ -1,2 +1,3 @@
-linQ MY CARE v14.2 — compact Android welcome screen.
-Upload all files to the GitHub repository root (replace index.html and service-worker.js). No user records are intentionally changed. Test with dummy data only.
+linQ MY CARE v14.3 — deletion confirmation modal fix.
+Upload all files to the repository root, replacing index.html and service-worker.js.
+No patient records or local storage keys have been changed. Test with dummy data only.

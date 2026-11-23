@@ -1,0 +1,27 @@
+{
+  "id": "./",
+  "name": "linQ MY CARE — תיעוד צריכה",
+  "short_name": "linQ MY CARE",
+  "description": "כלי אישי לתיעוד צריכת קנביס רפואי והרגשה, ללא חשבון משתמש.",
+  "lang": "he",
+  "dir": "rtl",
+  "start_url": "./",
+  "scope": "./",
+  "display": "standalone",
+  "background_color": "#0d302d",
+  "theme_color": "#0d302d",
+  "icons": [
+    {
+      "src": "./icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any"
+    },
+    {
+      "src": "./icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any"
+    }
+  ]
+}
